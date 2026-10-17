@@ -1,0 +1,13 @@
+{
+  "start": "2026-09-01",
+  "end": "2026-12-25",
+  "lessons": [
+    {"weekday": "пн", "type": "лекция", "subject": "Статистика"},
+    {"weekday": "вт", "type": "семинар", "subject": "Статистика"},
+    {"weekday": "ср", "type": "лекция", "subject": "Python"},
+    {"weekday": "ср", "type": "семинар", "subject": "Python"},
+    {"weekday": "чт", "type": "лекция", "subject": "Управление проектами"},
+    {"weekday": "пт", "type": "семинар", "subject": "Управление проектами"}
+  ],
+  "cancelled": ["2026-11-04"]
+}
